@@ -47,6 +47,7 @@ java Render_3D.Viewer`
 * Shows low-level graphics programming concepts usually hidden by modern game engines.
 * Great for <b>learing 3D math (matrices, vectors, projection).</b>
 * Written in vanilla Java, making it portable and easy to run anywhere
+* For a detailed explanation , Visit this Article I wrote explaining it , Quick 20 minute adventure, in-and-out,  [Building From Scratch: Java 3D Render Engine](https://medium.com/@ashmitmishra/building-from-scratch-java-3d-render-engine-e00e109e533e)
 ---
 ## Credits
 * Inspired by [Rogach's blog on 3D rendering in Java(2015)](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
